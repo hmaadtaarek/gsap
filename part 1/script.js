@@ -27,3 +27,12 @@ gsap.to(".box1, .box2",{
     
 
 })
+
+
+
+
+gsap.from("h1",{
+    opacity: 0,
+    y:20,
+    stagger: -0.5
+})
