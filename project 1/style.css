@@ -18,6 +18,7 @@ html,body{
     background-color: #fff;
     border-radius: 50%;
     position: fixed;
+    pointer-events: none;
 }
 nav{
     padding: 1vw 2vw;
@@ -33,6 +34,7 @@ a{
     font-size: 3.5vw;
     font-weight: 900;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 .right{
     display: flex;
